@@ -1,5 +1,6 @@
 # Mega Man 7 in Cocos2d-x 
 
+This is my first Project in cocos2d-x :)
 Youtube Link : https://www.youtube.com/watch?v=BAvLmnOYWsk
 
 Environments
