@@ -9,5 +9,3 @@ Environments
 
 Sprite Resource : Sprite-inc / spriters-resource
 SFX Resource : sounds-resource
-
-All credit : CAPCOM
