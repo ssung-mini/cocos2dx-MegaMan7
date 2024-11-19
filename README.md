@@ -2,7 +2,7 @@
 
 This is my first Project in cocos2d-x :)
 
-Made Prototype based on the **opening stage (distance made) of Megaman 7** (CAPCOM, SNES, 1995).
+Made Prototype based on the **opening stage (Ruined Street) of Megaman 7** (CAPCOM, SNES, 1995).
 
 **Youtube Link :** https://www.youtube.com/watch?v=BAvLmnOYWsk
 
